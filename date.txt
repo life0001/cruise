@@ -1,0 +1,54 @@
+﻿[
+    {
+        "Date": "2016-03-01",
+        "Price": "59",
+        "href":"http://www.baidu.com",
+        "ship":"丽星.处女星号",
+        "City":"香港",
+        "CityReturn":["&lt;xx-海口-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX","&lt;广州-海口-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX","&lt;广州1-海口1-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX","&lt;广州1-海口1-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX","&lt;广州1-海口1-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX","&lt;广州1-海口1-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX"], //如果单日有2个及以上的活动需要设置这项
+        "CityLink":["http://www.163.com","http://www.126.com","http://www.1688.com","http://www.1688.com","http://www.1688.com","http://www.1688.com"], //上面的a链接
+        "CityPrice":[19999,299,399,199,299,399], //a链接价格
+        "hot":"<s class=\"tag1\"></s>", //热
+        "sale":"",  //优惠
+        "isRepeay":true //是否单日有2个以上的活动
+    },
+    {
+        "Date": "2016-03-21",
+        "Price": "59",
+        "href":"http://www.baidu.com",
+        "ship":"丽星.处女星号",
+        "City":"香港",
+        "CityReturn":[""], //如果单日有2个及以上的活动需要设置这项
+        "CityLink":[""], //上面的a链接
+        "CityPrice":[], //a链接价格
+        "hot":"<s class=\"tag1\"></s>", //热
+        "sale":"",  //优惠
+        "isRepeay":false //是否单日有2个以上的活动
+    },
+    {
+        "Date": "2016-03-17",
+        "Price": "59",
+        "href":"http://www.baidu.com",
+        "ship":"丽星.处女星号",
+        "City":"香港",
+        "CityReturn":["&lt;xx-海口2-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX","&lt;广州-海口3-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX","&lt;广州1-海口4-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX"],
+        "CityLink":["http://www.163.com","http://www.126.com","http://www.1688.com"], //上面的a链接
+        "CityPrice":[199,299,399], //a链接价格
+        "hot":"<s class=\"tag1\"></s>", //热
+        "sale":"<s class=\"tag2\"></s>",  //优惠
+        "isRepeay":true //是否单日有2个以上的活动
+    },
+    {
+        "Date": "2016-04-12",
+        "Price": "59",
+        "href":"http://www.baidu.com",
+        "ship":"丽星.处女星号",
+        "City":"香港",
+        "CityReturn":["&lt;xx-海口a-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX","&lt;广州-海口b-下龙湾-海口-广州 3晚4日&gt;广州往返XXXXX"],
+        "CityLink":["http://www.163.com","http://www.126.com"], //上面的a链接
+        "CityPrice":[499,599,599], //a链接价格
+        "hot":"<s class=\"tag1\"></s>", //热
+        "sale":"<s class=\"tag2\"></s>",  //优惠
+        "isRepeay":true //是否单日有2个以上的活动
+    }
+]
